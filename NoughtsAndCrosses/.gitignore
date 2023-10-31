@@ -1,0 +1,9 @@
+# Python 
+
+__pycache__/
+
+# Visual studio
+
+.vscode/
+.pytest_cache 
+.testmondata
